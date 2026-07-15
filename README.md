@@ -16,7 +16,5 @@ python bmi_calculator.py
 | 18.5 – 24.9 | Healthy Weight |
 | 25.0 – 29.9 | Overweight |
 | ≥ 30.0 | Obese |
+# Thanks for visiting <3
 
-## Note
-
-The correct BMI formula is `weight / height²`, but this code uses `weight / height`. Update to `weight / (height ** 2)` for accurate results.
